@@ -1,0 +1,19 @@
+DEEP LEARNING PROJECT REPORT
+Robust Model Validation Suite
+
+Baseline Model
+Test Loss: 0.1331
+Test Accuracy: 97.08%
+
+Dropout Model
+Test Loss: 0.0841
+Test Accuracy: 97.65%
+
+L2 Regularization Model
+Test Loss: 0.1878
+Test Accuracy: 96.79%
+
+Early Stopping Model
+Test Loss: 0.0975
+Test Accuracy: 97.06%
+
